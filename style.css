@@ -1,0 +1,59 @@
+.name {
+    color: rgb(128,128,128);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+    font-family: Georgia;
+    font-size: 64px; 
+}
+
+.era {
+    color: royalblue;
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+    font-family: Impact;
+    font-size: 64px;
+}
+
+.aura {
+    width: 500px;
+    background-color: rgb(150,150,150);
+    color: rgb(200,200,200);
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
+    font-size: 20px;
+}
+
+a.button {
+    padding: 10px 100px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+}
+
+.auraname {
+    color: rgb(255,255,255);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 64px; 
+}
+
+.aurararity {
+    color: rgb(200,200,200);
+    -webkit-text-stroke: 1px;
+    -webkit-text-stroke-color: black;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 50px;
+}
+
+.auradesc {
+    text-align: center;
+    color: rgb(200,200,200);
+    font-size: 35px;
+}
